@@ -54,9 +54,15 @@ GEM
       warden (~> 1.2.3)
     erubis (2.7.0)
     execjs (2.5.2)
+<<<<<<< HEAD
     foundation-rails (5.5.1.2)
       railties (>= 3.1.0)
       sass (>= 3.3.0, < 3.5)
+=======
+    foundation-rails (5.4.3.1)
+      railties (>= 3.1.0)
+      sass (>= 3.2.0)
+>>>>>>> development
     hike (1.2.3)
     i18n (0.7.0)
     jbuilder (2.2.13)
@@ -107,7 +113,11 @@ GEM
     rdoc (4.2.0)
     responders (1.1.2)
       railties (>= 3.2, < 4.2)
+<<<<<<< HEAD
     sass (3.4.13)
+=======
+    sass (3.2.19)
+>>>>>>> development
     sass-rails (5.0.3)
       railties (>= 4.0.0, < 5.0)
       sass (~> 3.1)
@@ -148,7 +158,11 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
   devise
+<<<<<<< HEAD
   foundation-rails
+=======
+  foundation-rails (= 5.4.3.1)
+>>>>>>> development
   jbuilder (~> 2.0)
   jquery-rails
   obfuscate_id

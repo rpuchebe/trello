@@ -41,7 +41,11 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+<<<<<<< HEAD
 gem 'foundation-rails'
+=======
+gem 'foundation-rails', '5.4.3.1'
+>>>>>>> development
 gem 'devise'
 gem 'paperclip'
 gem 'obfuscate_id'
